@@ -108,7 +108,7 @@ subplot(3,2,5); plot(t,dm5); title("Recovered Signal 5");
 subplot(3,2,6); plot(t,dm6); title("Recovered Signal 6");
 ```
 
-__Output_:
+__Output__:
 <img width="626" height="901" alt="image" src="https://github.com/user-attachments/assets/d4597242-a51a-4c34-8448-1aee5ce97dfb" />
 
 __Result__:
