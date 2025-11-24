@@ -112,4 +112,5 @@ __Output__:
 <img width="626" height="901" alt="image" src="https://github.com/user-attachments/assets/d4597242-a51a-4c34-8448-1aee5ce97dfb" />
 
 __Result__:
-The Frequency Division Multiplexing (FDM) and Demultiplexing of six different message signals were successfully implemented using SCILAB.All six message signals were modulated with distinct carrier frequencies and combined to form a single multiplexed signal. Upon demodulation and low-pass filtering, each original message signal was accurately recovered, verifying the correct working of the FDM and demultiplexing process.
+![WhatsApp Image 2025-11-24 at 1 23 35 PM](https://github.com/user-attachments/assets/9480cff6-20e6-4477-81f4-60ac39c3b04b)
+
